@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.762 s <<< FAILURE! - in TestSuite
+com.intbanking.testCases.Tc_LogTest_001.Setup  Time elapsed: 0.593 s  <<< FAILURE!
+java.lang.IllegalArgumentException: key can't be empty
+
